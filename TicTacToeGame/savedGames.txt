@@ -1,0 +1,78 @@
+Game id: 1
+Turn: 1
+next board: 2 1 2 1
+Game coordinates: 0 0
+1 2 0 
+0 2 0 
+0 2 2 
+Game coordinates: 0 1
+1 0 0 
+0 0 0 
+0 0 0 
+Game coordinates: 0 2
+0 0 0 
+0 0 0 
+0 0 0 
+Game coordinates: 1 0
+0 0 0 
+0 0 0 
+0 0 0 
+Game coordinates: 1 1
+1 0 0 
+0 0 0 
+0 0 0 
+Game coordinates: 1 2
+0 0 0 
+0 0 0 
+0 0 0 
+Game coordinates: 2 0
+0 0 0 
+0 0 0 
+0 0 0 
+Game coordinates: 2 1
+0 0 0 
+0 0 0 
+0 0 0 
+Game coordinates: 2 2
+1 0 0 
+0 0 0 
+0 0 0 
+Game id: 2
+Turn: 2
+next board: 2 0 2 0
+Game coordinates: 0 0
+1 2 0 
+0 2 0 
+0 2 0 
+Game coordinates: 0 1
+1 2 0 
+1 0 0 
+1 0 0 
+Game coordinates: 0 2
+0 0 0 
+0 0 0 
+0 0 0 
+Game coordinates: 1 0
+0 2 0 
+0 0 0 
+0 0 0 
+Game coordinates: 1 1
+1 0 0 
+0 0 0 
+0 0 0 
+Game coordinates: 1 2
+0 0 0 
+0 0 0 
+0 0 0 
+Game coordinates: 2 0
+0 0 0 
+0 0 0 
+0 0 0 
+Game coordinates: 2 1
+0 1 0 
+0 0 0 
+0 0 0 
+Game coordinates: 2 2
+0 0 0 
+0 0 0 
+0 0 0 
